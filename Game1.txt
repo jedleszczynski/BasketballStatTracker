@@ -1,0 +1,8 @@
+12/6/2017
+Stritch 77
+Clarke  84
+Jed C 10 5 7 0.3 2 2
+Fred G 12 6 8 0.6 3 1
+Niko C 16 0 2 0.9 2 2
+Carlos G 24 5 0 1 1 1
+Nemanja F 15 3 6 0.8 2 4 
