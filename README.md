@@ -9,7 +9,7 @@ This Java application allows tracking statictics of a basketball team. It allows
 	* Saving statistic to a .txt file
 ### Demonstrated Programming Concepts
 	a. Objects and functions
-	b. Data sttructures and classes
+	b. Data structures and classes
 	c. Abstraction
 	d. Polymorphism
 	e. Inheritance
